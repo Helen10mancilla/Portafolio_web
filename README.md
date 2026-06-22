@@ -95,14 +95,6 @@ Proyecto enfocado en marketing digital, automatización y soluciones web para em
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
-
----
-
 ## 📫 Contacto
 
 - LinkedIn: www.linkedin.com/in/helen-orejuela-mancilla-36a97a222l
